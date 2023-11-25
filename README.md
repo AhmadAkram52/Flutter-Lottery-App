@@ -4,4 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-<video src='Assets/videos/Lottery App.mp4' width=360 height=760 ></video>
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+
